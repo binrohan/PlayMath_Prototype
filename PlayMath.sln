@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMath_Prototype", "PlayMath_Prototype\PlayMath_Prototype.csproj", "{8B912D51-6D19-4FF9-9162-C5551651F80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B912D51-6D19-4FF9-9162-C5551651F80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B912D51-6D19-4FF9-9162-C5551651F80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B912D51-6D19-4FF9-9162-C5551651F80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B912D51-6D19-4FF9-9162-C5551651F80A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41EA298A-26EE-4700-8D3F-0DC7AA1801EC}
+	EndGlobalSection
+EndGlobal
